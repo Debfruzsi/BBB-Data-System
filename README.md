@@ -54,14 +54,6 @@ Bureau for Business Bean (BBB) group
 
   ## <span id=Contribution> Contribution </span>
   Created by BBBgroup  
-  See github to contribute or report bugs: https://github.com/https://github.com/generation-de-nat2/Bureau-for-Bean-Business
-
-  ## <span id=Questions> Questions </span>
-  For issues or feature requests: https://github.com/https://github.com/generation-de-nat2/Bureau-for-Bean-Business  
-  For other questions, please email me: 
-
-  ## <span id=Tests> Tests </span>
-  formal tests to come
 
   ## <span id=License> License </span>
   MIT  
